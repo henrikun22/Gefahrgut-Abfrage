@@ -1,2 +1,3 @@
-# Gefahrgut-Abfrage
-Dieses Programm hilft Rettungskräften Gefahrgut Schilder schnell auszuwerten
+# Gefahrgut
+Mobiles Open-Source-Unterstützungstool für Feuerwehr und Rettungskräfte zur sekundenschnellen Entschlüsselung von Kemler-Codes und UN-Nummern direkt an der Einsatzstelle.
+
